@@ -1,0 +1,6 @@
+﻿  MainProgram.cpp
+c:\users\jamie\documents\visual studio 2015\projects\seniorsem\seniorsem\mainprogram.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jamie\documents\visual studio 2015\projects\seniorsem\seniorsem\mainprogram.cpp(92): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+c:\users\jamie\documents\visual studio 2015\projects\seniorsem\seniorsem\mainprogram.cpp(126): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jamie\documents\visual studio 2015\projects\seniorsem\seniorsem\mainprogram.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  SeniorSem.vcxproj -> C:\Users\Jamie\Documents\Visual Studio 2015\Projects\SeniorSem\Debug\SeniorSem.exe
